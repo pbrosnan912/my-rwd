@@ -1,0 +1,35 @@
+/**
+*===========================================================================================
+*styles.css -- Global Styles For The MyRWD Website 
+*===========================================================================================
+*
+*Created November 12th 2014
+*
+*Authored By Pat Brosnan
+*
+*/
+
+/* ----- Basic styling -----*/
+
+body {
+  background-color: lightblue;
+}
+#page-wrapper {
+  background-color:white;
+  width: 768px;
+  margin: auto; 
+}
+#content {
+  background-color: #f7f2da;
+  padding: 0 1em;
+  margin: 0 0 10px 0;
+}
+nav {
+  background-color: gray;
+  padding: 0;
+  
+}
+nav ul {
+  padding: 3px 10px;
+  list-style-type: none;
+}
